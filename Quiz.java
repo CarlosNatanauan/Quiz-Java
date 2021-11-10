@@ -1,7 +1,7 @@
 import java.util.*;
 
 public class Quiz {//ComProg 2
-    public static void main(String[] args) throws EmptyInputException {//Natanauan Nov 09
+    public static void main(String[] args) {//Natanauan Nov 09
         Scanner s = new Scanner(System.in);
         int cor = 0, incor = 0;
         String userAns = "";
